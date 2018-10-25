@@ -1,5 +1,5 @@
-$bg-color: red;
+// Variable Overrides
 
-body {
-  background: $bg-color;
-}
+// Bootstrap Sass Imports
+@import "node_modules/bootstrap/scss/bootstrap";
+
